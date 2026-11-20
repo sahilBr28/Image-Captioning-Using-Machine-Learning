@@ -35,3 +35,6 @@ uploads/
 build/
 dist/
 *.egg-info/
+
+# Streamlit secrets (will be added in the cloud dashboard, not GitHub)
+.streamlit/secrets.toml
